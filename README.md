@@ -2,25 +2,20 @@
 
 <!--
 **ovicristian/ovicristian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+My name is Cristian Oviedo, and I develop websites:
 
-- 💬 Ask me about ...
+💬 Ask me about ...
+
 -  Web development 
 -  Hosting
 -  WHM
 -  Cpanel
 -  Email configuration.
+-  Woocommerce.
+-  Wordpress.
+-  Google Merchant Center.
+-  Google Analytics.
 
-Encuentrame mi trabajo en la web: <a href="https://citrus.com.uy">citrus.com.uy</a>
+Find my previous work in my website: <a href="https://citrus.com.uy">www.citrus.com.uy</a>, there you can see how good it´s our work.
  
