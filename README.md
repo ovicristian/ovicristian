@@ -18,4 +18,10 @@ My name is Cristian Oviedo, and I develop websites:
 -  Google Analytics.
 
 Find my previous work in my website: <a href="https://citrus.com.uy">www.citrus.com.uy</a>, there you can see how good it´s our work.
+
+Some of our previous work (all of them make us really proud):
+
+-  <a href="https://radiosyrines.com">www.radiosyrines.com</a>
+-  <a href="https://mercadopax.com.ar">www.mercadopax.com.ar</a>
+-  <a href="https://smb.com.uy">www.smb.com.uy</a>
  
