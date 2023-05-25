@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💬 Ask me about ...
+-  Web development 
+-  Hosting
+-  WHM
+-  Cpanel
+-  Email configuration.
+
+Encuentrame mi trabajo en la web: <a href="https://citrus.com.uy">citrus.com.uy</a>
+ 
