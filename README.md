@@ -17,14 +17,15 @@ My name is Cristian Oviedo, and I develop websites:
 -  Google Merchant Center.
 -  Google Analytics.
 
-Find my previous work in my website: <a href="https://citrus.com.uy">www.citrus.com.uy</a>, there you can see how good it´s our work.
+Find my previous work in my website: <a href="https://citrus.com.uy">www.citrus.com.uy</a>, there you can see for yourself how good it is.
 
-Some of our previous work (all of them make us really proud):
+Some of my previous work (all of them makes me really proud):
 
 -  <a href="https://radiosyrines.com">www.radiosyrines.com</a>
 -  <a href="https://mercadopax.com.ar">www.mercadopax.com.ar</a>
 -  <a href="https://smb.com.uy">www.smb.com.uy</a>
  
-We are Citrus Web.
+I am: <a href="https://citrus.com.uy">Citrus Web.</a>
 
-![bosquejo-logo](https://github.com/ovicristian/ovicristian/assets/9158011/7e381872-f782-4b39-acf4-45a65c549bc4)
+![bosquejo-logo-chico](https://github.com/ovicristian/ovicristian/assets/9158011/a436081f-0326-4994-81b5-681f2f730b90)
+
